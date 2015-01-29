@@ -1,0 +1,43 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="@android:style/Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <declare-styleable name="FontizeTextView">
+        <attr name="textfont">
+            <enum name="sans" value="0" />
+            <enum name="sansbold" value="1" />
+            <enum name="serif" value="2" />
+            <enum name="myriad" value="3" />
+            <enum name="myriadbold" value="4" />
+        </attr>
+    </declare-styleable>
+
+      
+    
+     <style name="style_team_slogan">
+        <item name="android:textSize">19.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ff0000ff</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:shadowColor">#ffffffff</item>
+        <item name="android:shadowDx">1.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">4.0</item>
+    </style>
+
+</resources>

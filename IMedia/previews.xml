@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<previews>
+
+    <preview
+        name="xxhdpi"
+        activity="com.gtotek.imedia.MainActivity"
+        config="layout-ldltr-sw360dp-w360dp-h640dp-normal-notlong-port-notnight-xxhdpi-finger-keyssoft-nokeys-navhidden-nonav-1920x1080-v20"
+        device="Nexus 5"
+        devicestate="Portrait"
+        target="Android L (Preview)"
+        theme="@style/AppTheme" >
+    </preview>
+    <preview
+        name="hdpi"
+        activity="com.gtotek.imedia.MainActivity"
+        config="layout-ldltr-sw320dp-w320dp-h533dp-normal-long-port-notnight-hdpi-finger-keyssoft-nokeys-navhidden-nonav-800x480-v20"
+        device="Nexus S"
+        devicestate="Portrait"
+        target="Android L (Preview)"
+        theme="@style/AppTheme" >
+    </preview>
+    <preview
+        name="xhdpi"
+        activity="com.gtotek.imedia.MainActivity"
+        config="layout-ldltr-sw360dp-w360dp-h640dp-normal-long-port-notnight-xhdpi-finger-keyssoft-nokeys-navhidden-nonav-1280x720-v20"
+        device="Galaxy Nexus"
+        devicestate="Portrait"
+        target="Android L (Preview)"
+        theme="@style/AppTheme" >
+    </preview>
+
+</previews>

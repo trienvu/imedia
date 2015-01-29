@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_messge_dialog">#40e0d0</color>
+    <color name="text_dialog">#DEDEDE</color>
+   
+    
+    <color name="background_global">#fff1f1f1</color>
+
+    <!-- Grid chanel -->
+    <color name="clr_chanel_frag_gv_view_select">#30EBFF</color>
+    <color name="clr_chanel_frag_gv_view_item">#e7e7e8</color>
+
+    <!-- Common color -->
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    
+     <!-- Gradient bg AB -->
+    <color name="ab_gradient_clr_start">#3c3c3c</color>
+    <color name="ab_gradient_clr_center">#0a0a0a</color>
+    
+     <color name="ab_gradient_button_start">#37FF4B</color>
+    <color name="ab_gradient_button_end">#37FF4B</color>
+    
+     <!-- Media control -->    
+    <color name="mediacontroller_bg_pressed">#ff53c1bd</color>
+    <color name="mediacontroller_bg">#99000000</color>
+</resources>
